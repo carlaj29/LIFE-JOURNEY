@@ -1,4 +1,4 @@
-# LIFE-JOURNEY
+## LIFE-JOURNEY
 **_Timeline of the evolution of life on Earth_**
 
 #Project idea:
