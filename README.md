@@ -9,6 +9,7 @@ It was hard to come up with an idea out of scale for this topic because of the a
 
 Group 7:
 Carla Flores
+
 Gao He
 
 Project link
