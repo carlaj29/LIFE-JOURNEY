@@ -8,6 +8,7 @@ Interactive timeline where you can feel and see how much time passed between the
 It was hard to come up with an idea out of scale for this topic because of the amount of information that is involved on it. We needed to search through a lot of information to be sure in which way we shoudl show it and summerized it. Inicially we wanted to do a scrolling timeline but it was to complicated for us to make the changes of the screen. We were also searching for some codes that could help us improve our project, but at the end we decided to use them only as a reference and write our own.
 
 Group 7:
+
 Carla Flores
 
 Gao He
