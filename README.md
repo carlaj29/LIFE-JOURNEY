@@ -9,7 +9,7 @@ It was hard to come up with an idea out of scale for this topic because of the a
 
 
 ##How it works?:
-![GitHub Logo](/pics presentation/screen 1.png)
+![GitHub Logo](/images/screen 1.png)
 Format: ![Alt Text](url)
 
 Group 7:
