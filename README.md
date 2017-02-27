@@ -15,6 +15,8 @@ You can click to see what happened on each period of time.
 You can also go back in time by moving the cursor and pressing the left key.
 On the longest period of times you can see interesting fact about each period of time.
 
+![GitHub Logo](/Images 2/screen 1.png)
+Format: ![Alt Text](url)
 
 Group 7:
 
