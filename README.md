@@ -10,13 +10,21 @@ It was hard to come up with an idea out of scale for this topic because of the a
 
 ##How it works?:
 Click and move the cursor from one side to another to start making the time pass. 
-You will receive hints to guide you throught thre process.
-You can click to see what happened on each period of time.
-You can also go back in time by moving the cursor and pressing the left key.
-On the longest period of times you can see interesting fact about each period of time.
 
 ![GitHub Logo](/Images 2/screen 1.png)
-Format: ![Alt Text](url)
+
+You can click to see what happened on each period of time.
+
+![GitHub Logo](/Images 2/screen 2.png)
+
+You will receive hints to guide you throught thre process.
+
+![GitHub Logo](/Images 2/screen 3.png)
+
+You can also go back in time by moving the cursor and pressing the left key. And on the longest period of times you can see interesting fact about each period of time.
+
+
+
 
 Group 7:
 
